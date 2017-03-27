@@ -37,7 +37,7 @@
           {{#basics.summary}}
           <!-- ABOUT ME -->
           <div class="box">
-            <h2><i class="fa fa-user ico"></i> About</h2>
+            <h2><i class="fa fa-user ico"></i> Sobre</h2>
             <p>{{{basics.summary}}}</p>
           </div>
           {{/basics.summary}}
